@@ -108,15 +108,15 @@ PlotFour/
 
 ## 🎉 Features Summary
 
-✅ **Modern UI** with clean, professional design  
-✅ **AI Opponent** with 3 difficulty levels  
-✅ **Game Modes** (PvP and PvE)  
-✅ **Undo Functionality**  
-✅ **Score Tracking**  
-✅ **Real-Time Updates**  
-✅ **Color-Coded Interface**  
-✅ **Responsive Design**  
-✅ **No External Dependencies**  
+ **Modern UI** with clean, professional design  
+ **AI Opponent** with 3 difficulty levels  
+ **Game Modes** (PvP and PvE)  
+ **Undo Functionality**  
+ **Score Tracking**  
+ **Real-Time Updates**  
+ **Color-Coded Interface**  
+ **Responsive Design**  
+ **No External Dependencies**  
 
 ## 🐛 Troubleshooting
 
@@ -157,6 +157,10 @@ MIT License - Feel free to use, modify, and distribute!
 - **Modern UI**: Clean, professional design
 - **AI Algorithm**: Minimax with alpha-beta pruning
 - **Python Implementation**: Optimized for performance and readability
+
+🤖 Glimpse
+<img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/fdef7f07-73fb-4e68-b30d-d87db4b94303" />
+
 
 ---
 
