@@ -158,7 +158,7 @@ MIT License - Feel free to use, modify, and distribute!
 - **AI Algorithm**: Minimax with alpha-beta pruning
 - **Python Implementation**: Optimized for performance and readability
 
-🤖 Glimpse
+## 🤖 Glimpse
 <img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/fdef7f07-73fb-4e68-b30d-d87db4b94303" />
 
 
