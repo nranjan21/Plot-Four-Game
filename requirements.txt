@@ -1,0 +1,27 @@
+# Modern Connect Four Game - Requirements
+# Python 3.8+ required
+
+# Core dependencies (built-in modules)
+# - tkinter (GUI framework)
+# - threading (for animations)
+# - time (for game timing)
+# - json (for settings/stats)
+# - os (for file operations)
+# - math (for calculations)
+# - random (for AI moves)
+
+# Optional dependencies for enhanced features
+# Uncomment these if you want to install additional features:
+
+# pygame>=2.1.0  # For enhanced sound effects and animations
+# pillow>=8.0.0  # For image processing and custom graphics
+# numpy>=1.21.0  # For advanced AI algorithms
+# matplotlib>=3.5.0  # For statistics visualization
+
+# Development dependencies
+# pytest>=6.0.0  # For testing
+# black>=21.0.0  # For code formatting
+# flake8>=3.9.0  # For linting
+
+# Note: This game uses only Python standard library modules
+# No additional installations required for basic functionality!
