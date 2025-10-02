@@ -103,8 +103,6 @@ PlotFour/
 ├── README.md               # 📖 This documentation
 ├── .gitignore              # 🚫 Git ignore file
 ├── plot_four.cpp           # 📜 Original C++ version
-├── push_to_main.bat        # 🚀 Git push script
-├── git_commands.md         # 📝 Manual git commands
 └── LICENSE                 # 📄 MIT License
 ```
 
